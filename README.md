@@ -26,16 +26,16 @@ plus d'info sur Bootstrap  : [https://getbootstrap.com/ ]
 *NavBAR
 
 * Card ![see] (https://getbootstrap.com/docs/4.3/components/card/)
-![](assets/img/img_Readme/capture6.png)
+![](Assets/img/img_Readme/capture6.png)
 
 *Jumbotron  ![see] (https://getbootstrap.com/docs/4.3/components/jumbotron/)
-![](assets/img/img_Readme/capture4.png)
+![](Assets/img/img_Readme/capture4.png)
 
 *fomulaire  ![see] (https://getbootstrap.com/docs/4.3/components/forms/)
-![](assets/img/img_Readme/capture7.png)
+![](Assets/img/img_Readme/capture7.png)
 
 *NavBar  ![see] (https://getbootstrap.com/docs/4.3/components/navbar/)
-![](assets/img/img_Readme/capture5.png)
+![](Assets/img/img_Readme/capture5.png)
 
 
 
@@ -43,12 +43,12 @@ plus d'info sur Bootstrap  : [https://getbootstrap.com/ ]
 ## Problémes rencontrés : 
 
 Disstorsion d'images sur le navigateur Google Chrome:
-![](assets/img/img_Readme/capture2.png)
+![](Assets/img/img_Readme/capture2.png)
 
 Solution mise en place :
-![](assets/img/img_Readme/capture1.png)
+![](Assets/img/img_Readme/capture1.png)
 
 Probléme de validation W3c:
-![](assets/img/img_Readme/capture.png)
+![](Assets/img/img_Readme/capture.png)
 
 *Flamme Ariane 2019*
