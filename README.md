@@ -23,7 +23,6 @@ plus d'info sur Bootstrap  : [https://getbootstrap.com/ ]
 
 ## Les differentes ressources de bootstrap utilisé :
 
-*NavBAR
 
 * Card ![see] (https://getbootstrap.com/docs/4.3/components/card/)
 ![](https://raw.githubusercontent.com/flammeariane/Restaurant-css/master/Assets/img/img_Readme/Capture6.PNG)  
