@@ -26,16 +26,16 @@ plus d'info sur Bootstrap  : [https://getbootstrap.com/ ]
 *NavBAR
 
 * Card ![see] (https://getbootstrap.com/docs/4.3/components/card/)
-![](Assets\img\img_Readme\Capture6.png)  
+![](https://raw.githubusercontent.com/flammeariane/Restaurant-css/master/Assets/img/img_Readme/Capture6.PNG)  
 
 *Jumbotron  ![see] (https://getbootstrap.com/docs/4.3/components/jumbotron/)
-![](Assets\img\img_Readme\Capture4.png)
+![](https://raw.githubusercontent.com/flammeariane/Restaurant-css/master/Assets/img/img_Readme/Capture4.PNG)
 
 *fomulaire  ![see] (https://getbootstrap.com/docs/4.3/components/forms/)
-![](Assets\img\img_Readme\Capture7.png)
+![](https://raw.githubusercontent.com/flammeariane/Restaurant-css/master/Assets/img/img_Readme/Capture7.PNG)
 
 *NavBar  ![see] (https://getbootstrap.com/docs/4.3/components/navbar/)
-![](Assets\img\img_Readme\Capture5.png)
+![](https://raw.githubusercontent.com/flammeariane/Restaurant-css/master/Assets/img/img_Readme/Capture5.PNG)
 
 
 
@@ -43,12 +43,12 @@ plus d'info sur Bootstrap  : [https://getbootstrap.com/ ]
 ## Problémes rencontrés : 
 
 Disstorsion d'images sur le navigateur Google Chrome:
-![](Assets\img\img_Readme\Capture2.png)
+![](https://raw.githubusercontent.com/flammeariane/Restaurant-css/master/Assets/img/img_Readme/Capture2.PNG)
 
 Solution mise en place :
-![](Assets\img\img_Readme\Capture1.png)
+![](https://raw.githubusercontent.com/flammeariane/Restaurant-css/master/Assets/img/img_Readme/Capture1.PNG)
 
 Probléme de validation W3c:
-![](Assets\img\img_Readme\Capture.png)
+erreure CMD Jqueries Bootstrap
 
 *Flamme Ariane 2019*
